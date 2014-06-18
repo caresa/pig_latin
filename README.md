@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PigLatin
 
 TODO: Write a gem description
@@ -27,3 +28,7 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+=======
+pig_latin
+=========
+>>>>>>> ce67f1e9b61b53ee08c1b43829d38a487ea59887
