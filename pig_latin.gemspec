@@ -2,7 +2,7 @@
 
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'lib/pig_latin/version'
+require_relative 'lib/pig_latin/version.rb'
 
 Gem::Specification.new do |spec|
   spec.name          = "pig_latin"
